@@ -15,3 +15,8 @@ Quickstart: Create a Linux VM
 
 Quickstart for Bash in Azure Cloud Shell
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+
+
+ Create a Linux virtual machine with the Azure CLI
+ i  jdjf;
